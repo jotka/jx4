@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - jotka/jx4
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.20.118.89.210.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
